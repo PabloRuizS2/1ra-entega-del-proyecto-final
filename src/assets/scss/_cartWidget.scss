@@ -1,0 +1,19 @@
+
+.cart-widget {
+    i.bi.bi-cart3 {
+        font-size: 2rem;
+        cursor: pointer;
+        
+    }
+}
+
+@media screen and (min-width: 1023px) {
+    .cart-widget {
+        margin-right: 2rem;
+        i.bi.bi-cart3 {
+            font-size: 2rem;        
+        }
+    }
+}
+
+
