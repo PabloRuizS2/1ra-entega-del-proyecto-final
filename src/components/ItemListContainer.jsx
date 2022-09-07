@@ -21,7 +21,7 @@ function ItemListContainer(props) {
 
             resolve(
 
-                fetch('https://fakestoreapi.com/products/category/electronics')
+                fetch('https://fakestoreapi.com/products/')
                 .then(res => res.json())
             )
                 
