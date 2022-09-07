@@ -1,4 +1,4 @@
-## LaissezFaire 
+## PabloRuizS2
 
 Se desarrolló un prototipo de tienda virtual en React, incluyendo los siguientes componentes: 
 
